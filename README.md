@@ -4,7 +4,7 @@
 
 Create beautiful slideshows from your image collections with just one command! ✨
 
-![Slideshow Demo](https://via.placeholder.com/800x450.png?text=Auto-Slideshow+Demo)
+
 
 ## 🌟 Features
 
